@@ -1,7 +1,6 @@
 # Terraform Azure Development Environment Setup
 
 This repository contains Terraform code for creating a development environment in Microsoft Azure. This environment includes a Virtual Network, Subnet, Network Security Group, Public IP, Network Interface, and a Linux Virtual Machine. These resources are defined in code to ensure consistency and ease of provisioning.
-![Azure Logo](https://example.com/azure-logo.png)
 
 ## Prerequisites
 
